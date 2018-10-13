@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+
+.list-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 15px;
+  border-top-color: white;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-bottom-color: white;
+}
+
+img {
+  height: 75px;
+  width: 75px;
+  margin-left: 15px;
+  border-radius: 100px;
+}
+.name {
+  margin-left: 10px;
+  font: 20px "Lato", Arial, sans-serif;
+  color: white;
+}

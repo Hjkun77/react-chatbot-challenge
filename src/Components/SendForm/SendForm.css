@@ -1,0 +1,23 @@
+/* .send-message-form {
+  position: absolute;
+  bottom: 0;
+} */
+
+input {
+  margin: 20px;
+  font-size: 18px;
+  text-align: center;
+  padding: 25px 50px;
+  width: 85%;
+  border: none;
+  border-radius: 5px;
+  resize: none;
+}
+
+.chat-message {
+  width: 960px;
+  height: 108px;
+  background-color: #F2F5F8;
+  border-top-style: solid;
+  border-top-color: white;
+}

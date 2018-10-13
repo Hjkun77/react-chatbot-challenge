@@ -1,0 +1,28 @@
+.chat-box {
+  width: 960px;
+  height: 612px;
+  background: #F2F5F8;
+}
+
+.message {
+  padding: 18px 20px;
+  line-height: 26px;
+  font-size: 16px;
+  border-radius: 7px;
+  margin-bottom: 30px;
+  width: 90%;
+  position: relative;
+}
+
+.message-name {
+  margin-left: 5px;
+  font-weight: bold;
+}
+
+.message-text {
+  float: left;
+  background-color: #94C2ED;
+  padding: 5px 15px;
+  border-radius: 10px;
+  color: white;
+}

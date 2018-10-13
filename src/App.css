@@ -1,0 +1,16 @@
+body {
+  background: #C5DDEB;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 20px auto;
+  width: 1280px;
+  border-radius: 5px;
+}
+
+.grid-container {
+  display:flex;
+  flex-direction: column;
+}
